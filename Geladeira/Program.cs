@@ -45,3 +45,4 @@ namespace GeladeiraIoT
         }
     }
 }
+// Aluna: Jaqueline Araújo Pinheiro dos Santos
