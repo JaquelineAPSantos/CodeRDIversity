@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geladeira", "Geladeira\Geladeira.csproj", "{F408819B-5CF4-4905-86C6-D51DF44716B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F408819B-5CF4-4905-86C6-D51DF44716B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F408819B-5CF4-4905-86C6-D51DF44716B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F408819B-5CF4-4905-86C6-D51DF44716B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F408819B-5CF4-4905-86C6-D51DF44716B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7567E6D-B3E9-487F-A589-4D2707B4BA0F}
+	EndGlobalSection
+EndGlobal
